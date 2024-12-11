@@ -1,0 +1,7 @@
+pytorch
+awkward
+coffea
+numpy
+hist
+matplotlib
+mplhep
